@@ -11,7 +11,7 @@ Currently pursuing **B.Tech in Artificial Intelligence** at Anurag University.
 • AI-powered systems  
 • Full-stack web applications  
 • Automation tools and browser extensions  
-• Software that solves real-world problems
+• Software that solves real-world problems  
 
 ---
 
@@ -23,8 +23,11 @@ Java | Python | JavaScript
 **Frontend**  
 React.js | HTML | CSS  
 
+**Backend**  
+Spring Boot  
+
 **Database**  
-MySQL
+MySQL  
 
 **Tools**  
 Git | GitHub | VS Code | AWS  
@@ -32,6 +35,21 @@ Git | GitHub | VS Code | AWS
 ---
 
 # 📂 Featured Projects
+
+## 🤖 GitSense – AI GitHub Repository Insight Dashboard
+An AI-powered developer analytics platform that helps users analyze and understand GitHub repositories through interactive dashboards and AI-generated codebase insights.
+
+Highlights:
+- GitHub repository analytics dashboard
+- Commit frequency and contributor activity analysis
+- Programming language distribution visualization
+- AI-generated codebase insights (project purpose, tech stack, complexity)
+- Full CRUD repository management system
+
+Tech Stack:  
+React.js | Spring Boot | Maven | MySQL | Aiven Cloud | GitHub API
+
+---
 
 ## 🌱 Dridha – AI Drone System for Precision Agriculture
 AI-powered crop monitoring system that detects weeds and crop stress using drone imagery.
@@ -58,15 +76,9 @@ Built using **JavaScript + Chrome Extension APIs**.
 ## 📋 Online Task Management System
 A full-stack task management web application for organizing and tracking daily tasks.
 
-Tech Stack:
+Tech Stack:  
 React.js | Spring Boot | MySQL | Git
 
-Features:
-- Create and manage tasks
-- Backend REST API
-- Database integration
-- Frontend deployed on Vercel
-- Version controlled using Git and GitHub
 
 ---
 
@@ -80,5 +92,5 @@ Developed *Dridha*, an autonomous agricultural drone integrating ML-based crop m
 
 ## 📫 Connect With Me
 
-Email: glishareddy04@gmail.com
-GitHub: https://github.com/Lirisha123  
+Email: glishareddy04@gmail.com  
+GitHub: https://github.com/Lirisha123
