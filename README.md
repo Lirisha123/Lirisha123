@@ -23,11 +23,8 @@ Java | Python | JavaScript
 **Frontend**  
 React.js | HTML | CSS  
 
-**Backend**  
-Spring Boot | REST APIs  
-
 **Database**  
-MySQL | SQL  
+MySQL
 
 **Tools**  
 Git | GitHub | VS Code | AWS  
