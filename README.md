@@ -82,4 +82,3 @@ Developed *Dridha*, an autonomous agricultural drone integrating ML-based crop m
 
 Email: glishareddy04@gmail.com
 GitHub: https://github.com/Lirisha123  
-Linkedin: Lirisha Reddy
