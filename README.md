@@ -77,10 +77,6 @@ A full-stack application that combines repository analytics with AI-powered code
 
 &nbsp;
 
-<a href="https://git-sense-bay.vercel.app/login">
-<img src="https://img.shields.io/badge/Live%20Demo-0070F3?style=for-the-badge" />
-</a>
-
 </td>
 
 </tr>
