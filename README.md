@@ -2,75 +2,82 @@
 
 # Lirisha Reddy
 
-### `AI` · `Computer Vision` · `Software Engineering`
+### Software Developer · Intelligent Applications · Problem Solving
 
 <p>
-  <a href="https://github.com/Lirisha123">
-    <img src="https://img.shields.io/badge/GitHub-Lirisha123-181717?style=for-the-badge&logo=github" />
-  </a>
-  <a href="https://in.linkedin.com/in/lirisha-reddy-52b545297">
-    <img src="https://img.shields.io/badge/LinkedIn-Lirisha%20Reddy-0A66C2?style=for-the-badge&logo=linkedin" />
-  </a>
-  <a href="mailto:glirishareddy04@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail" />
-  </a>
+<a href="https://github.com/Lirisha123">
+<img src="https://img.shields.io/badge/GitHub-Lirisha123-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+<a href="https://in.linkedin.com/in/lirisha-reddy-52b545297">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="mailto:glirishareddy04@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 </p>
 
 </div>
 
 ---
 
-### About
+## About
 
-I'm an Artificial Intelligence student who enjoys building **practical AI and software systems**.
+I'm a B.Tech Artificial Intelligence student interested in **software development, intelligent applications, and problem solving**.
 
-My work spans **computer vision, AI-powered developer tools, and software engineering** — with a focus on turning ideas into working products.
+I enjoy working across different areas of technology — from **DSA and core software concepts** to **machine learning, APIs, and application development**.
 
 ---
 
-### What I've Built
+## Projects
 
 <table>
 <tr>
-<td width="50%">
 
-#### 🌾 Dridha
+<td width="50%" valign="top">
+
+### 🌾 Dridha
 
 **AI-powered precision agriculture**
 
-Drone-based weed detection using YOLOv11, with GPS-based mapping for precision farming.
+A drone-based computer vision system for weed detection and precision farming.
 
 `Python` `YOLOv11` `OpenCV`
 
-**3K+ aerial images · ~88% mAP**
+**3,000+ aerial images · ~88% mAP**
+
+<br>
 
 <a href="https://github.com/Lirisha123/dridha_ML">
-<img src="https://img.shields.io/badge/View%20Project-181717?style=flat-square&logo=github" />
+<img src="https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </td>
 
-<td width="50%">
+<td width="50%" valign="top">
 
-#### 🧠 GitSense
+### 🧠 GitSense
 
-**AI-powered GitHub intelligence**
+**AI-powered GitHub repository intelligence**
 
-Analyzes repository activity and generates AI-powered project insights using GitHub's API and Gemini.
+A developer-focused application that analyzes repository activity and generates project insights using the GitHub REST API and Gemini.
 
-`React` `JavaScript` `Gemini`
+`React.js` `JavaScript` `GitHub API` `Gemini API`
 
-<a href="https://github.com/Lirisha123">
-<img src="https://img.shields.io/badge/View%20Project-181717?style=flat-square&logo=github" />
+<br>
+
+<a href="https://github.com/Lirisha123?tab=repositories">
+<img src="https://img.shields.io/badge/View%20Repositories-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </td>
+
 </tr>
 
 <tr>
-<td width="50%">
 
-#### 🧩 Chrome Extension Toolkit
+<td width="50%" valign="top">
+
+### 🧩 Chrome Extension Toolkit
 
 **Browser automation**
 
@@ -78,53 +85,73 @@ Chrome extensions for automating repetitive workflows, extracting tab data, and 
 
 `JavaScript` `Chrome APIs` `DOM`
 
+<br>
+
 <a href="https://github.com/Lirisha123/chrome_ext">
-<img src="https://img.shields.io/badge/View%20Project-181717?style=flat-square&logo=github" />
+<img src="https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </td>
 
-<td width="50%">
+<td width="50%" valign="top">
 
-#### 🏆 Data Dynamo 2.0
+### 🏆 Data Dynamo 2.0
 
 **1st Prize · National Hackathon**
 
-Built and presented Dridha in the IoT domain at Anurag University.
+Recognized for **Dridha**, an AI-based weed detection system for precision agriculture.
+
+<br>
+
+<img src="https://img.shields.io/badge/1st%20Prize-IoT%20Domain-111111?style=for-the-badge"/>
 
 </td>
+
 </tr>
 </table>
 
 ---
 
-### Tech I Work With
+## Technologies
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=java,python,js,react,mysql,aws,git,github,html,css" />
+<img src="https://skillicons.dev/icons?i=java,python,js,react,mysql,aws,git,github,html,css"/>
 
 <br><br>
 
-<img src="https://img.shields.io/badge/YOLOv11-Computer%20Vision-111111?style=flat-square" />
-<img src="https://img.shields.io/badge/PyTorch-Deep%20Learning-111111?style=flat-square&logo=pytorch" />
-<img src="https://img.shields.io/badge/OpenCV-Computer%20Vision-111111?style=flat-square&logo=opencv" />
-<img src="https://img.shields.io/badge/REST%20APIs-111111?style=flat-square" />
+<img src="https://img.shields.io/badge/YOLOv11-111111?style=flat-square"/>
+<img src="https://img.shields.io/badge/PyTorch-111111?style=flat-square&logo=pytorch"/>
+<img src="https://img.shields.io/badge/OpenCV-111111?style=flat-square&logo=opencv"/>
+<img src="https://img.shields.io/badge/Scikit--Learn-111111?style=flat-square&logo=scikit-learn"/>
+<img src="https://img.shields.io/badge/REST%20APIs-111111?style=flat-square"/>
 
 </p>
 
 ---
 
-### A Few Numbers
+## Highlights
 
 <div align="center">
 
-| 🏆 | 💻 | 🎯 |
-|:---:|:---:|:---:|
-| **1st Prize** | **250+** | **8.44** |
-| National Hackathon | Coding Problems | CGPA |
+**🥇 1st Prize** &nbsp;&nbsp;&nbsp; **💻 250+ Problems** &nbsp;&nbsp;&nbsp; **🎓 8.44 CGPA**
+
+`National Hackathon` &nbsp;&nbsp;&nbsp; `CodeChef + LeetCode` &nbsp;&nbsp;&nbsp; `B.Tech Artificial Intelligence`
 
 </div>
+
+---
+
+## Currently
+
+**Strengthening**
+→ DSA · OOP · DBMS · Operating Systems · Computer Networks
+
+**Working With**
+→ Java · Python · SQL · React · REST APIs · AI/ML
+
+**Exploring**
+→ Building practical applications that combine software engineering with intelligent systems
 
 ---
 
@@ -133,15 +160,11 @@ Built and presented Dridha in the IoT domain at Anurag University.
 ### Let's Connect
 
 <a href="https://in.linkedin.com/in/lirisha-reddy-52b545297">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" />
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-
+&nbsp;
 <a href="mailto:glirishareddy04@gmail.com">
-<img src="https://img.shields.io/badge/Email-Say%20Hello-EA4335?style=for-the-badge&logo=gmail" />
+<img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
-
-<br><br>
-
-`Build → Experiment → Learn → Improve`
 
 </div>
