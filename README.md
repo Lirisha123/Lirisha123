@@ -1,173 +1,88 @@
-<div align="center">
 
-# Lirisha Reddy
+# `lirisha.exe`
 
-### Software Development · AI Applications · Problem Solving
-
-<p>
-  <a href="https://github.com/Lirisha123">
-    <img src="https://img.shields.io/badge/GitHub-Lirisha123-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/lirisha-reddy-52b545297">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:glirishareddy04@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=900&color=A78BFA&center=true&vCenter=true&width=600&lines=Curious+mind.+Builder's+hands.;Exploring+AI%2C+code%2C+and+everything+between.;Currently+under+construction...+%F0%9F%9A%A7" alt="Typing animation" />
 </p>
 
-</div>
+<p align="center">
+  <code>AI student</code> &nbsp; <code>Problem solver</code> &nbsp; <code>Work in progress</code>
+</p>
 
 ---
 
-## About
+### `$ whoami`
 
-I'm a B.Tech Artificial Intelligence student interested in **software development, intelligent applications, and problem solving**.
+Not here to pretend I've figured everything out.
 
-My projects range from full-stack applications and developer tools to machine learning systems, with a focus on understanding the problem first and building practical solutions around it.
+I'm Lirisha — I like exploring how technology works, experimenting with ideas, and turning what I learn into something real.
 
----
+I'm interested in the intersection of intelligent systems and software, and I'm figuring out where curiosity takes me next.
 
-## Projects
-
-<table>
-<tr>
-
-<td width="50%" valign="top">
-
-### 🌾 Dridha
-
-**AI-powered precision agriculture**
-
-A drone-based weed detection system that analyzes aerial crop imagery and generates geospatial insights for precision spraying.
-
-**3,000+ images · 88.45% mAP@0.5**
-
-`Python` `YOLOv11` `PyTorch` `OpenCV`
-
-<br>
-
-<a href="https://github.com/Lirisha123/dridha_ML">
-<img src="https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
-&nbsp;
-
-<a href="https://huggingface.co/spaces/Lirisha123/Dridha">
-<img src="https://img.shields.io/badge/Live%20Demo-FF6F00?style=for-the-badge" />
-</a>
-
-</td>
-
-<td width="50%" valign="top">
-
-### 🧠 GitSense
-
-**GitHub repository intelligence platform**
-
-A full-stack application that combines repository analytics with AI-powered codebase insights to help developers understand project activity, architecture, and development trends.
-
-`React` `Spring Boot` `MySQL` `GitHub REST API`
-
-<br>
-
-<a href="https://github.com/Lirisha123/git_project">
-<img src="https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
-&nbsp;
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%" valign="top">
-
-### 🧩 Chrome Extension Toolkit
-
-**Browser automation**
-
-A Chrome extension that retrieves and displays the active browser tab using Chrome's extension APIs.
-
-`JavaScript` `Chrome APIs` `HTML` `CSS`
-
-<br>
-
-<a href="https://github.com/Lirisha123/chrome_ext">
-<img src="https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
-</td>
-
-<td width="50%" valign="top">
-
-### 📌 More Projects
-
-Explore my repositories for additional experiments, coursework, and development projects.
-
-<br>
-
-<a href="https://github.com/Lirisha123?tab=repositories">
-<img src="https://img.shields.io/badge/Explore%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
-</td>
-
-</tr>
-</table>
+**Current status:** `learning → experimenting → building → repeating`
 
 ---
 
-## Technologies
+### `$ explore --tech-stack`
 
-**Languages**  
-Java · Python · SQL · JavaScript
+<details>
+<summary>⌘ &nbsp; Languages I work with</summary>
+<br />
+<p>
+  <img src="https://skillicons.dev/icons?i=java,python,mysql,js&theme=dark" alt="Java, Python, MySQL and JavaScript" />
+</p>
+</details>
 
-**Software Development**  
-React.js · REST APIs · HTML5 · CSS3 · Git · GitHub
+<details>
+<summary>◈ &nbsp; AI / ML playground</summary>
+<br />
+<p>
+  <img src="https://skillicons.dev/icons?i=pytorch,opencv,sklearn&theme=dark" alt="AI and machine learning technologies" />
+</p>
+</details>
 
-**AI / Machine Learning**  
-PyTorch · YOLOv11 · OpenCV · Scikit-Learn
+<details>
+<summary>⌘ &nbsp; Things I build with</summary>
+<br />
+<p>
+  <img src="https://skillicons.dev/icons?i=react,html,css,aws,git,github,vscode&theme=dark" alt="Development tools and technologies" />
+</p>
+</details>
 
-**Databases & Cloud**  
-MySQL · AWS
+<details>
+<summary>↗ &nbsp; Concepts I'm interested in</summary>
+<br />
+
+- Intelligent systems that solve real problems
+- Software design and development
+- Problem-solving and data structures
+- Making complex things easier to understand
+
+</details>
 
 ---
 
-## Achievements
+### `$ cat mindset.txt`
 
-🏆 **1st Prize — Data Dynamo 2.0 National Hackathon**  
-Recognized for Dridha, an AI-based weed detection system for precision agriculture.
+```text
+curiosity > assumptions
+understanding > memorizing
+building > just bookmarking tutorials
+progress > perfection
+```
 
-💻 **250+ Coding Problems Solved**  
-CodeChef · LeetCode
+### `$ system.status`
+
+`[ ONLINE ]` Still learning. Still experimenting.
+
+<p align="center">
+  <i>“The goal isn't to know everything. It's to keep getting better at figuring things out.”</i>
+</p>
 
 ---
 
-## Currently
-
-📌 Strengthening **DSA and core CS fundamentals**
-
-📌 Working with **Java, Python, SQL and full-stack development**
-
-📌 Exploring **AI-powered applications and practical software systems**
-
----
-
-<div align="center">
-
-### Let's Connect
-
-<a href="https://www.linkedin.com/in/lirisha-reddy-52b545297">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-
-&nbsp;
-
-<a href="mailto:glirishareddy04@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-
-</div>
+<p align="center">
+  <a href="https://www.linkedin.com/">LinkedIn</a>
+  &nbsp; · &nbsp;
+  <a href="https://github.com/">GitHub</a>
+</p>
