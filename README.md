@@ -1,12 +1,6 @@
 # Lirisha Reddy
 
 <p align="center">
-  <samp>
-    curious by nature. learning by building.
-  </samp>
-</p>
-
-<p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Courier+New&size=16&duration=3500&pause=1000&color=FFFFFF&center=true&vCenter=true&width=480&lines=exploring+the+unknown.;asking+better+questions.;figuring+things+out%2C+one+line+at+a+time." alt="A rotating introduction" />
 </p>
 
@@ -63,7 +57,7 @@ New tools, unfamiliar concepts, unexpected ideas. Sometimes the most interesting
 ### `03 / my toolkit`
 
 <p align="center">
-  <sub>things I use to turn curiosity into practice</sub>
+  <sub>things I use to turn ideas into practice</sub>
 </p>
 
 <p align="center">
@@ -71,7 +65,7 @@ New tools, unfamiliar concepts, unexpected ideas. Sometimes the most interesting
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=pytorch,opencv,react,html,css,aws,git,github&theme=light" alt="Machine learning, web development, cloud and version control tools" />
+  <img src="https://skillicons.dev/icons?i=pytorch,opencv,react,html,css,aws,git,github&theme=light" alt="AI, web development, cloud and version control tools" />
 </p>
 
 <details>
@@ -101,19 +95,7 @@ Every unfamiliar concept is an invitation to explore. Every mistake is informati
 
 ---
 
-### `05 / github activity`
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&bg_color=00000000&title_color=FFFFFF&text_color=AAAAAA&icon_color=FFFFFF&rank_icon=github" alt="GitHub account statistics" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&hide_border=true&background=00000000&ring=FFFFFF&fire=FFFFFF&currStreakLabel=FFFFFF&sideLabels=AAAAAA&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=888888" alt="GitHub contribution streak" />
-</p>
-
----
-
-### `06 / currently`
+### `05 / currently`
 
 ```text
 status   : learning
@@ -121,15 +103,6 @@ approach : stay curious
 mindset  : open to the unknown
 direction: still discovering
 ```
-
-<details>
-<summary><code>one thing I believe</code></summary>
-
-<br />
-
-You don't have to be the smartest person in the room. Be the person who's willing to keep asking, learning, and trying.
-
-</details>
 
 ---
 
