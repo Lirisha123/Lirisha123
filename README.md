@@ -1,7 +1,4 @@
- <p align="center">
-  <br />
-  <img src="https://readme-typing-svg.demolab.com?font=Trebuchet+MS&weight=700&size=36&duration=4000&pause=2000&color=B69AE0&center=true&vCenter=true&width=650&height=65&lines=LIRISHA+REDDY" alt="Lirisha Reddy" />
-</p>
+<h1 align="center">LIRISHA REDDY</h1>
 
 <p align="center">
   <samp>AI STUDENT &nbsp; · &nbsp; DEVELOPER</samp>
@@ -12,10 +9,10 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/YOUR_USERNAME">
+  <a href="https://github.com/Lirisha123">
     <img src="https://img.shields.io/badge/GitHub-EDE5F7?style=flat-square&logo=github&logoColor=74559B" alt="GitHub" />
   </a>
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME/">
+  <a href="https://www.linkedin.com/in/Lirisha Reddy/">
     <img src="https://img.shields.io/badge/LinkedIn-EDE5F7?style=flat-square&logo=linkedin&logoColor=74559B" alt="LinkedIn" />
   </a>
 </p>
@@ -75,7 +72,7 @@ New technologies, unfamiliar concepts, unexpected ideas, and the little discover
 - **Languages:** Java, Python, SQL, JavaScript
 - **AI / ML:** PyTorch, YOLO, OpenCV, scikit-learn
 - **Web:** React, HTML, CSS, REST APIs
-- **Cloud & databases:** AWS, MySQL
+- **Cloud &amp; databases:** AWS, MySQL
 - **Foundations:** DSA, OOP, DBMS, operating systems, computer networks
 
 </details>
@@ -85,11 +82,11 @@ New technologies, unfamiliar concepts, unexpected ideas, and the little discover
 ### how I learn
 
 <p align="center">
-  <img src="https://img.shields.io/badge/01-QUESTION-C9B6E4?style=for-the-badge&labelColor=EDE5F7&color=EDE5F7" alt="Question" />
+  <img src="https://img.shields.io/badge/01%20%20QUESTION-EDE5F7?style=for-the-badge&labelColor=EDE5F7&color=EDE5F7" alt="Question" />
   &nbsp; →
-  <img src="https://img.shields.io/badge/02-EXPERIMENT-C9B6E4?style=for-the-badge&labelColor=E5D8F3&color=E5D8F3" alt="Experiment" />
+  <img src="https://img.shields.io/badge/02%20%20EXPERIMENT-E5D8F3?style=for-the-badge&labelColor=E5D8F3&color=E5D8F3" alt="Experiment" />
   &nbsp; →
-  <img src="https://img.shields.io/badge/03-UNDERSTAND-C9B6E4?style=for-the-badge&labelColor=DCCBED&color=DCCBED" alt="Understand" />
+  <img src="https://img.shields.io/badge/03%20%20UNDERSTAND-DCCBED?style=for-the-badge&labelColor=DCCBED&color=DCCBED" alt="Understand" />
 </p>
 
 I don't expect to know everything from the start. I prefer to ask questions, try things out, learn from mistakes, and understand the reasoning behind what I build.
