@@ -22,8 +22,7 @@
 ### a little about me
 
 Hey, I'm Lirisha! I'm an AI student who enjoys learning through experimentation, solving problems, and discovering new ways to approach things.
-
-I like understanding what's happening behind the scenes, whether it's a line of code, a machine learning model, or an entirely new concept. For me, the interesting part isn't just getting something to work — it's understanding why it works.
+For me, the interesting part isn't just getting something to work — it's understanding why it works.
 
 ### things I find interesting
 
