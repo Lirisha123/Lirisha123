@@ -1,88 +1,142 @@
-
-# `lirisha.exe`
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=900&color=A78BFA&center=true&vCenter=true&width=600&lines=Curious+mind.+Builder's+hands.;Exploring+AI%2C+code%2C+and+everything+between.;Currently+under+construction...+%F0%9F%9A%A7" alt="Typing animation" />
-</p>
+# Lirisha Reddy
 
 <p align="center">
-  <code>AI student</code> &nbsp; <code>Problem solver</code> &nbsp; <code>Work in progress</code>
+  <samp>
+    curious by nature. learning by building.
+  </samp>
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Courier+New&size=16&duration=3500&pause=1000&color=FFFFFF&center=true&vCenter=true&width=480&lines=exploring+the+unknown.;asking+better+questions.;figuring+things+out%2C+one+line+at+a+time." alt="A rotating introduction" />
+</p>
+
+<p align="center">
+  <a href="https://github.com/YOUR_USERNAME">
+    <img src="https://img.shields.io/badge/GitHub-ffffff?style=flat-square&logo=github&logoColor=000000" alt="GitHub" />
+  </a>
+  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME/">
+    <img src="https://img.shields.io/badge/LinkedIn-ffffff?style=flat-square&logo=linkedin&logoColor=000000" alt="LinkedIn" />
+  </a>
 </p>
 
 ---
 
-### `$ whoami`
+### `01 / a little about me`
 
-Not here to pretend I've figured everything out.
+I'm Lirisha — an AI student with a curious mind and a habit of asking *"but how does that actually work?"*
 
-I'm Lirisha — I like exploring how technology works, experimenting with ideas, and turning what I learn into something real.
+I'm interested in the space where logic meets creativity: understanding systems, exploring intelligent technology, and turning ideas into things that work.
 
-I'm interested in the intersection of intelligent systems and software, and I'm figuring out where curiosity takes me next.
+I don't think learning is just about collecting answers. It's about asking better questions.
 
-**Current status:** `learning → experimenting → building → repeating`
-
----
-
-### `$ explore --tech-stack`
+### `02 / things that interest me`
 
 <details>
-<summary>⌘ &nbsp; Languages I work with</summary>
+<summary><code>01</code> &nbsp; Intelligence &amp; patterns</summary>
+
 <br />
-<p>
-  <img src="https://skillicons.dev/icons?i=java,python,mysql,js&theme=dark" alt="Java, Python, MySQL and JavaScript" />
-</p>
+
+Exploring how machines learn, how data tells stories, and how seemingly complex problems can become understandable.
+
 </details>
 
 <details>
-<summary>◈ &nbsp; AI / ML playground</summary>
+<summary><code>02</code> &nbsp; Code &amp; logic</summary>
+
 <br />
-<p>
-  <img src="https://skillicons.dev/icons?i=pytorch,opencv,sklearn&theme=dark" alt="AI and machine learning technologies" />
-</p>
+
+I enjoy working through problems, understanding the reasoning behind a solution, and finding a cleaner way to make things work.
+
 </details>
 
 <details>
-<summary>⌘ &nbsp; Things I build with</summary>
-<br />
-<p>
-  <img src="https://skillicons.dev/icons?i=react,html,css,aws,git,github,vscode&theme=dark" alt="Development tools and technologies" />
-</p>
-</details>
+<summary><code>03</code> &nbsp; The unexplored</summary>
 
-<details>
-<summary>↗ &nbsp; Concepts I'm interested in</summary>
 <br />
 
-- Intelligent systems that solve real problems
-- Software design and development
-- Problem-solving and data structures
-- Making complex things easier to understand
+New tools, unfamiliar concepts, unexpected ideas. Sometimes the most interesting rabbit holes start with a simple question.
 
 </details>
 
 ---
 
-### `$ cat mindset.txt`
+### `03 / my toolkit`
+
+<p align="center">
+  <sub>things I use to turn curiosity into practice</sub>
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,python,mysql,js&theme=light" alt="Java, Python, MySQL and JavaScript" />
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=pytorch,opencv,react,html,css,aws,git,github&theme=light" alt="Machine learning, web development, cloud and version control tools" />
+</p>
+
+<details>
+<summary><code>+ more about my stack</code></summary>
+
+- **Languages:** Java, Python, SQL, JavaScript
+- **AI / ML:** PyTorch, YOLO, OpenCV, scikit-learn
+- **Web:** React, HTML, CSS, REST APIs
+- **Cloud & databases:** AWS, MySQL
+- **Foundations:** Data structures, algorithms, OOP, DBMS, operating systems, computer networks
+
+</details>
+
+---
+
+### `04 / the learning loop`
+
+<p align="center">
+  <samp>
+    observe → question → experiment → understand → repeat
+  </samp>
+</p>
+
+I believe in making progress without pretending to know everything.
+
+Every unfamiliar concept is an invitation to explore. Every mistake is information. Every small breakthrough makes the next challenge a little less intimidating.
+
+---
+
+### `05 / github activity`
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&bg_color=00000000&title_color=FFFFFF&text_color=AAAAAA&icon_color=FFFFFF&rank_icon=github" alt="GitHub account statistics" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&hide_border=true&background=00000000&ring=FFFFFF&fire=FFFFFF&currStreakLabel=FFFFFF&sideLabels=AAAAAA&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=888888" alt="GitHub contribution streak" />
+</p>
+
+---
+
+### `06 / currently`
 
 ```text
-curiosity > assumptions
-understanding > memorizing
-building > just bookmarking tutorials
-progress > perfection
+status   : learning
+approach : stay curious
+mindset  : open to the unknown
+direction: still discovering
 ```
 
-### `$ system.status`
+<details>
+<summary><code>one thing I believe</code></summary>
 
-`[ ONLINE ]` Still learning. Still experimenting.
+<br />
 
-<p align="center">
-  <i>“The goal isn't to know everything. It's to keep getting better at figuring things out.”</i>
-</p>
+You don't have to be the smartest person in the room. Be the person who's willing to keep asking, learning, and trying.
+
+</details>
 
 ---
 
 <p align="center">
-  <a href="https://www.linkedin.com/">LinkedIn</a>
-  &nbsp; · &nbsp;
-  <a href="https://github.com/">GitHub</a>
+  <samp>still exploring. still becoming.</samp>
+</p>
+
+<p align="center">
+  <sub>thanks for stopping by.</sub>
 </p>
