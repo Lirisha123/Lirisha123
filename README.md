@@ -1,7 +1,11 @@
 # Lirisha Reddy
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Courier+New&size=16&duration=3500&pause=1000&color=FFFFFF&center=true&vCenter=true&width=480&lines=exploring+the+unknown.;asking+better+questions.;figuring+things+out%2C+one+line+at+a+time." alt="A rotating introduction" />
+  <samp>exploring ideas, one question at a time.</samp>
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Courier+New&size=16&duration=3500&pause=1000&color=FFFFFF&center=true&vCenter=true&width=450&lines=thinking+in+possibilities.;learning+through+experimentation.;always+curious+about+what's+next." alt="Animated introduction" />
 </p>
 
 <p align="center">
@@ -15,50 +19,46 @@
 
 ---
 
-### `01 / a little about me`
+### a little about me
 
-I'm Lirisha — an AI student with a curious mind and a habit of asking *"but how does that actually work?"*
+Hey, I'm Lirisha — an AI student who enjoys exploring how technology works and what can be created with it.
 
-I'm interested in the space where logic meets creativity: understanding systems, exploring intelligent technology, and turning ideas into things that work.
+I'm drawn to problems that make me think, ideas that challenge what I know, and the process of turning something unfamiliar into something I understand.
 
-I don't think learning is just about collecting answers. It's about asking better questions.
+For me, coding is more than writing instructions. It's a way to explore possibilities, experiment with ideas, and see what happens when curiosity meets logic.
 
-### `02 / things that interest me`
+### things that interest me
 
 <details>
-<summary><code>01</code> &nbsp; Intelligence &amp; patterns</summary>
+<summary>Intelligence &amp; patterns</summary>
 
 <br />
 
-Exploring how machines learn, how data tells stories, and how seemingly complex problems can become understandable.
+Exploring how machines learn, how data reveals patterns, and how intelligent systems can solve meaningful problems.
 
 </details>
 
 <details>
-<summary><code>02</code> &nbsp; Code &amp; logic</summary>
+<summary>Code &amp; problem-solving</summary>
 
 <br />
 
-I enjoy working through problems, understanding the reasoning behind a solution, and finding a cleaner way to make things work.
+Breaking down complex problems, understanding the logic behind solutions, and finding simpler ways to approach them.
 
 </details>
 
 <details>
-<summary><code>03</code> &nbsp; The unexplored</summary>
+<summary>Everything unexplored</summary>
 
 <br />
 
-New tools, unfamiliar concepts, unexpected ideas. Sometimes the most interesting rabbit holes start with a simple question.
+New technologies, unfamiliar concepts, unexpected ideas, and the occasional rabbit hole that starts with one small question.
 
 </details>
 
 ---
 
-### `03 / my toolkit`
-
-<p align="center">
-  <sub>things I use to turn ideas into practice</sub>
-</p>
+### my toolkit
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=java,python,mysql,js&theme=light" alt="Java, Python, MySQL and JavaScript" />
@@ -69,7 +69,7 @@ New tools, unfamiliar concepts, unexpected ideas. Sometimes the most interesting
 </p>
 
 <details>
-<summary><code>+ more about my stack</code></summary>
+<summary>a closer look at the technologies</summary>
 
 - **Languages:** Java, Python, SQL, JavaScript
 - **AI / ML:** PyTorch, YOLO, OpenCV, scikit-learn
@@ -81,28 +81,15 @@ New tools, unfamiliar concepts, unexpected ideas. Sometimes the most interesting
 
 ---
 
-### `04 / the learning loop`
+### the way I learn
 
 <p align="center">
-  <samp>
-    observe → question → experiment → understand → repeat
-  </samp>
+  <samp>question &nbsp; → &nbsp; explore &nbsp; → &nbsp; experiment &nbsp; → &nbsp; understand</samp>
 </p>
 
-I believe in making progress without pretending to know everything.
+I don't expect to know everything from the start. I'd rather stay curious, work through the difficult parts, and understand why something works than settle for simply knowing that it does.
 
-Every unfamiliar concept is an invitation to explore. Every mistake is information. Every small breakthrough makes the next challenge a little less intimidating.
-
----
-
-### `05 / currently`
-
-```text
-status   : learning
-approach : stay curious
-mindset  : open to the unknown
-direction: still discovering
-```
+Every new concept is another opportunity to see things differently.
 
 ---
 
@@ -111,5 +98,5 @@ direction: still discovering
 </p>
 
 <p align="center">
-  <sub>thanks for stopping by.</sub>
+  <sub>glad you found your way here.</sub>
 </p>
